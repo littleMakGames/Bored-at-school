@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: MainJava
-Class-Path: /Users/littlemak/Schoool/Apex_Math_Scripts/main_java.class
